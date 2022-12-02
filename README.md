@@ -1,6 +1,6 @@
 ### Howdy 🤠
 
-My name is Michael, I'm currently a postdoctoral researcher with [The Carpentries](https://carpentries.org/) and [CyVerse](https://cyverse.org/) at the University of Arizona. I'm currently working on developing R lessons for ecologists, helping Carpentries community members produce new lessons in the [Carpentries Incubator](https://github.com/carpentries-incubator) and [Carpentries Lab](https://github.com/carpentries-lab), and teaching workshops on Open Science skills for researchers.
+My name is Michael, I'm a data scientist in the Transit Information Department at [Metro Transit](https://www.metrotransit.org/). Previously, I was a postdoctoral researcher with [The Carpentries](https://carpentries.org/) and [CyVerse](https://cyverse.org/) at the University of Arizona, developing computational and data science curricula for researchers. My background is in insect ecology, specifically the behavioral interactions of insect pests and their natural enemies.
 
 <!--
 **MCMaurer/MCMaurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
